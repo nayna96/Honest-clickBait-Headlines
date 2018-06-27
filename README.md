@@ -1,2 +1,2 @@
 # Honest-clickBait-Headlines
-PHP
+Honest clickBait Headlines using PHP
